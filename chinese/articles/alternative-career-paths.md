@@ -1,6 +1,6 @@
 > * 原文地址：[23 Alternative Career Paths that Software Developers Can Grow Into 程序员职业发展的 23 种路径](https://www.freecodecamp.org/news/alternative-career-paths/)
 > * 原文作者：Karl Hughes
-> * 译者：MMMAY
+> * 译者：MMMAY vancezeng
 > * 校对者：
 
 ![23 Alternative Career Paths that Software Developers Can Grow Into]程序员职业发展的 23 种路径(https://www.freecodecamp.org/news/content/images/size/w2000/2020/07/Alternate-Career-Pathways.png)
@@ -10,22 +10,30 @@ Over the past five years, I've given dozens of guest lectures at many of the cod
 A few questions never fail to come up: "[Which language should I learn next?][1]", "[How can I prepare for technical interviews?][2]", "Are you hiring?"不断有人问我同样的问题：接下来该学什么语言呢？怎么准备技术面试？您招人吗？诸如此类。
 
 But one question that threw me off was, "What if I don't want to be a software developer?"
+但是有一个问题把我问倒了，“如果我不想当一名程序员怎么办？”
 
 I've been thinking about this a lot lately. After almost a decade leading product and engineering teams, I realized I was ready for a new challenge, so this summer, I started  [freelance technical writing][3]. I didn't know it when I got my first client, but I quickly realized that  _technical writing is one of many valid career paths for former software engineers_.
+我最近一直在想这个。经过了近十年的领导产品和工程团队，我意识到我已经准备好迎接新的挑战，因此今年夏天，我开始了[自由技术写作] [3]。 当我的第一个客户找上门时我还没有意识到，但是很快，我明白了————程序员写技术文章也是一条可行的职业发展路径。
 
-## What Else Can Software Developers Do?
+
+## What Else Can Software Developers Do?程序员除了写代码还能干什么？
 
 This realization got me thinking: "What other jobs can software engineers do besides write software?"
+这种认识让我开始思考：“还有什么工作是程序员能做的呢？”
 
 The list is surprisingly long.
+结果我想出了一大串。
 
 This post will go through many of the career paths available to software developers, especially recent bootcamp graduates. I'll explain what each job does, how you can get your foot in the door, and the long-term prospects.
+这篇文章将会介绍程序员可以走的多种职业发展路径，对于刚刚结束编程训练营的毕业生也非常值得一看。我将会分别解释每项工作的内容是什么，怎样入门，以及长期的发展情况如何。
+
 
 Whether you're looking for an alternate career path because you haven't found a job as an engineer or because you realized software development wasn't for you, this guide will help you find a career fit for your skillset.
+无论你是因为没有找到程序员的工作而正在寻找其他职业，还是因为觉得软件开发不适合你。本文都将会帮助你找到适合自己能力的职业。
 
 ![Alternative career paths for software developers](https://i.imgur.com/PFyQku1.png)
 
-## Customer-Facing Roles
+## Customer-Facing Roles跟客户打交道的工作
 
 While software engineers benefit from having people skills, some bootcamp graduates I've talked to aren't looking forward to sitting quietly and writing code all day. If you want a career path that provides more opportunities to interact with people, these jobs may suit you.
 
@@ -67,7 +75,7 @@ The good news is that with a background in software development, you'll have mor
 
 Unfortunately, many of the entry-level jobs in tech recruiting are at low-quality firms, so be sure to check their  [reputations on Glassdoor][13]  before you apply.
 
-## Product Roles
+## Product Roles产品相关的工作
 
 If you want to remain on the product team, but you're not sure you want to be a software developer, there are many fields you can transition into. These roles work closely with engineers, so your coding knowledge will help you, but they also require other specialized knowledge.
 
@@ -125,7 +133,7 @@ The explosion of  [no-code and low-code development tools][18]  in the past few 
 
 [Makerpad][19]  and  [No Code Jobs][20]  are good places to start looking for these kinds of jobs. Because this is a new field, you'll find a wide range of required skills and payscales, but your background writing code will undoubtedly prove to be an asset.
 
-## Support Roles
+## Support Roles幕后支持的工作
 
 A lot of new software engineers aren't aware of the many employees behind the scenes who help keep servers, websites, and operations running smoothly. Some of these roles require you to write automation scripts or have in-depth knowledge of server administration, but if you are looking for something outside of the traditional product development cycle, but with a technical bent, these could be a great fit.
 
@@ -157,7 +165,7 @@ While some engineers fear interactions with customers, others find it energizing
 
 The downside to working in support is that you might have to interact with people at their worst. Unsatisfied or frustrated users probably aren't happy to be talking to the tech support team, so you'll need a lot of patience and thick skin to stay in this role for long.
 
-## Teaching and Writing Roles
+## Teaching and Writing Roles知识传播的工作
 
 I've always loved teaching, so I found myself gravitating towards engineering roles that allowed me to do this. If you enjoy breaking complex topics down and presenting them to other engineers, there are a few career paths you can pursue.
 
@@ -187,7 +195,7 @@ Trainers may have deep technical knowledge, but some are just tech-savvy communi
 
 If you like being on stage and presenting technical concepts, this could be an ideal career path.
 
-## Analytical Roles
+## Analytical Roles数据分析方面的工作
 
 Lots of roles within technology companies require analytical skills. While many of these fields require specialized education, it's worth considering them if you're making a career pivot away from software engineering. You'll get to work at a different pace than most product-focused engineers, and like some of the support roles above, you may get to interact with other parts of the business.
 
